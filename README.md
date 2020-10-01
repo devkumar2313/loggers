@@ -1,5 +1,4 @@
-# loggers:-"A PYTHON LIBRARY" #
-================================
+# loggers:-"A PYTHON LIBRARY"
 ##A Python library for automatic logging in some websites with some practical functions##
 
 ####Author: ####
