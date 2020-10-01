@@ -1,4 +1,5 @@
-# loggers #
+# loggers:-"A PYTHON LIBRARY" #
+================================
 ##A Python library for automatic logging in some websites with some practical functions##
 
 ####Author: ####
@@ -9,7 +10,7 @@
 
 ####Requirements:####
 
-  - You will need to ensure that you are running python 2.x 
+  - You will need to ensure that you are running on python 2.x 
   (2.7.x or greater) on your devices.[**python2.7.6**](https://www.python.org/download/releases/2.7.6/)
   - If you use `DoiLogger` class, you will also need to install [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/).
 
@@ -50,7 +51,7 @@ if you are on Linux, then run
     cat log | xagrs rm -rf
 
 #####Detailed Installation:#####
-Add this directory to the PYTHONPATH, 
+Add this directory to the PYTHON PATH, 
 	
 e.g. in bash shell:
 	
@@ -79,9 +80,9 @@ e.g. `C:\Python27\Lib\site-packages` on Windows or
 
 若已经安装，需此行注释掉然后执行即可。
 
-####  doi_logger: ####
+####  Doi_logger: ####
 
-I've provide a simple python script `/script/doi_logger/run_doi.py` to download literature from database.
+I have provide a simple python script `/script/doi_logger/run_doi.py` to download literature from database.
 
 e.g. in powershell, cmd or linux shell, you want to download paper whose DOI is 10.1016/j.apcatb.2014.11.043:
    
@@ -93,7 +94,7 @@ then the corresponding `.PDF` file will appear in current path.
 
 ####  ecust_logger:  ####
 
-I've provided a simple batch script 'run.bat' for you to run the 
+I have provided a simple batch script 'run.bat' for you to run the 
 'run_ecust.py' to log in ECUST Campus Network automatically.
 
 Note: this script provide only automatic wired connection to 
@@ -149,5 +150,7 @@ automatically and  'run_downloader.py' to download file freely at midnight.
  3. The script will download for you automatically. Check files in the './emuch_download/' the next day, because some files may be corrupted(´-ι_-｀)
 
  4. Download informations are displayed in command windows, log informations are recorded in 'emuch.log'.
+ 
+ "THANK YOU FOR GIVING ME YOUR PRECIOUS TIME"
 	  
 =====================================================================================
